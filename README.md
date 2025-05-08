@@ -1,4 +1,3 @@
-```markdown
 # 🧠 z3r0l4g
 
 **Signal. Silence. Systems.**
@@ -52,4 +51,3 @@ Stay encrypted. Stay unpredictable.
 ---
 
 ![Status](https://img.shields.io/badge/status-operational-black) ![Kernel](https://img.shields.io/badge/kernel-LTS-informational) ![Mode](https://img.shields.io/badge/mode-silent%20builds-critical)
-```
